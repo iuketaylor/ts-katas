@@ -27,7 +27,9 @@ If you want to have a look at the solution, go to [name].solution.ts
 
 **How do I know if I've completed a kata?**
 
-This repo uses some utils that compare types. Once the types are equal, the error will go away.
+This repo uses some utils that tests types. Once the type tests are not erroring, you have completed the Kata.
+
+for example:
 
 ```ts
     type Tests = [
