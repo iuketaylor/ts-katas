@@ -1,10 +1,6 @@
 {
   "name": "ts-katas",
   "version": "1.0.0",
-  "main": "jest.config.js",
-  "directories": {
-    "test": "tests"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
