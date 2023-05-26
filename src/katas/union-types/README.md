@@ -1,8 +1,8 @@
 Implement a type that resolves to an ISO 8601 Date of any year/month/day from the year 2020 until 2099. 
 
-Days should only allow values between 01 and 31
-Months should only allow values between 01 and 12
-Years should only allow values between 2020 and 2099
++ Days should only allow values between 01 and 31
++ Months should only allow values between 01 and 12
++ Years should only allow values between 2020 and 2099
 
 for example:
 
