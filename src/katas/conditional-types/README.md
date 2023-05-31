@@ -2,9 +2,9 @@ Implement a type that takes in 3 generics and uses conditional logic to assign t
 
 C = condition
 
-T = value 1
+V1 = value 1
 
-F = value 2
+V2 = value 2
 
 If condition is true then assign the type value 1 else assign the type value 2
 
